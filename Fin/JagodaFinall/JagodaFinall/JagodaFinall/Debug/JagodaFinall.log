@@ -1,0 +1,2 @@
+﻿  JagodaFinall.c
+c:\users\maciek\desktop\jagodafinall\jagodafinall\jagodafinall\jagodafinall.c(201): fatal error C1010: Nieoczekiwany koniec pliku podczas wyszukiwania prekompilowanego pliku nagłówkowego. Czy zapomniano dodać „#include "pch.h"” do źródła?
